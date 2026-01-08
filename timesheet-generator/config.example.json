@@ -1,5 +1,5 @@
 {
-  "default_employee": "Maria Elena Rodriguez Garcia",
-  "default_supervisor": "Carlos Alberto Martinez Silva",
-  "language": "es"
+  "default_employee": "Employee Full Name",
+  "default_supervisor": "Supervisor Full Name",
+  "language": "en"
 }
