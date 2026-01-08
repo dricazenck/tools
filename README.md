@@ -29,6 +29,7 @@ Navigate to the specific tool directory for usage instructions.
 ```
 tools/
 ├── timesheet-generator/    # PDF timesheet generation tool
+└── kids-project            # Educational materials generator for school projects
 └── [future tools]          # Additional utilities to be added
 ```
 
